@@ -25,7 +25,6 @@ I'm currently working on a new startup Project<br>I'm currently perusing BCA<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=0&color=11)](https://visitcount.itsvg.in)

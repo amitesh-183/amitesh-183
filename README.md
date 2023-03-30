@@ -1,12 +1,11 @@
 # Hi 😎, I am B.Amitesh 
 # A FrontEnd Developer from India
 
----
-[![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=6&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : React,HTML,CSS,frontend development<br>🌱 I’m currently learning : MERN,Dsa<br>💬 Ask me about : FrontEnd<br>⚡ Fun fact : Javascript is amazing
 
+---
+[![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/octcode.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bamitesh183) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amitesh_exe) 

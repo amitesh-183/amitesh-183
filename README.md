@@ -1,6 +1,9 @@
 # Hi 😎, I am B.Amitesh 
 # A FrontEnd Developer from India
 
+---
+[![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=6&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : React,HTML,CSS,frontend development<br>🌱 I’m currently learning : MERN,Dsa<br>💬 Ask me about : FrontEnd<br>⚡ Fun fact : Javascript is amazing
 
@@ -26,8 +29,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

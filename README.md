@@ -1,5 +1,5 @@
-#Hi 😎, I am B.Amitesh 
-#A FrontEnd Developer from India
+# Hi 😎, I am B.Amitesh 
+# A FrontEnd Developer from India
 
 # 💫 About Me:
 🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : React,HTML,CSS,frontend development<br>🌱 I’m currently learning : MERN,Dsa<br>💬 Ask me about : FrontEnd<br>⚡ Fun fact : Javascript is amazing

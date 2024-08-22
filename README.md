@@ -1,8 +1,8 @@
 # Hi 😎, I am B.Amitesh 
-# A FrontEnd Developer from India
+# A Full Stack Developer from India
 
 # 💫 About Me:
-🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : React,HTML,CSS,frontend development<br>🌱 I’m currently learning : MERN,Dsa<br>💬 Ask me about : FrontEnd<br>⚡ Fun fact : Javascript is amazing
+🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : Backend development<br>🌱 I’m currently learning : DSA<br>💬 Ask me about : MERN | Bun | Django <br>⚡ Fun fact : Javascript is amazing
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitesh-183&icon=6&color=0)](https://visitcount.itsvg.in)

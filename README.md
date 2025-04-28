@@ -1,5 +1,5 @@
 # Hi 😎, I am B.Amitesh 
-# UI Developer from India
+# Frontend/UI Developer from India
 
 # 💫 About Me:
 🔭 I’m currently working on : Startup Website<br>👯 I’m looking to collaborate on : Open source contribution<br>🤝 I’m looking for help with : Backend development<br>🌱 I’m currently learning : DSA<br>💬 Ask me about : MERN | Bun | Django <br>⚡ Fun fact : Javascript is amazing
